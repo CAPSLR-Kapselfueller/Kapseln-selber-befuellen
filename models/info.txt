@@ -1,0 +1,1 @@
+This folder contains all 3D models needed for CAPSLR capsule filler production
